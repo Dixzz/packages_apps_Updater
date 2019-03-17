@@ -39,10 +39,10 @@ public final class Constants {
 
     public static final String PROP_AB_DEVICE = "ro.build.ab_update";
     public static final String PROP_BUILD_DATE = "ro.build.date.utc";
-    public static final String PROP_BUILD_VERSION = "ro.havoc.base.version";
-    public static final String PROP_DEVICE = "ro.havoc.device";
+    public static final String PROP_BUILD_VERSION = "ro.pearl.build.version";
+    public static final String PROP_DEVICE = "ro.pearl.device";
     public static final String PROP_NEXT_DEVICE = "ro.updater.next_device";
-    public static final String PROP_RELEASE_TYPE = "ro.havoc.releasetype";
+    public static final String PROP_RELEASE_TYPE = "ro.pearl.releasetypee";
     public static final String PROP_UPDATER_ALLOW_DOWNGRADING = "havoc.updater.allow_downgrading";
     public static final String PROP_UPDATER_URI = "havoc.updater.uri";
 
